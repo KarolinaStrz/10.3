@@ -1,0 +1,29 @@
+img {
+	width: 400px;
+	height: 300px;
+	border: solid 2px black;
+	box-sizing: border-box;
+}
+p {
+	color: white;
+}
+
+#carousel {
+	margin: 0 auto;
+	width: 400px;
+	height: 300px;
+	overflow: hidden;
+}
+ul {
+	width: 2000px;
+	height: 300px;
+	display: block;
+	list-style: none;
+
+}
+li {
+	list-style: none;
+	float: left;
+	height: 300px;
+	width: 400px;
+}
